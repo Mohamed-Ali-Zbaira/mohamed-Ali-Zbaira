@@ -66,9 +66,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
   <img width="12" />
-  <img src="https://www.blackduck.com/glossary/what-is-cicd/_jcr_content/root/synopsyscontainer/column_1946395452_co/colRight/image_copy.coreimg.svg/1727199377195/cicd.svg" height="40" title="CI/CD"/>
+  <img src="https://res.cloudinary.com/dbwnwezyk/image/upload/v1767985127/83fbee1e-7e5c-4427-831e-39834dd79373.png" height="40" title="CI/CD"/>
   <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/ansible_logo_icon_169596.png" height="40" title="Ansible"/>
   <img width="12" />
-  <img src="https://juststickers.in/wp-content/uploads/2018/11/kubernetes-wordmark.png" height="40" title="Kubernetes"/>
+  <img src="https://res.cloudinary.com/dbwnwezyk/image/upload/v1767985095/62a9c3168ff6441a2952dacc_ufcvrd.png" height="40" title="Kubernetes"/>
 </div>
