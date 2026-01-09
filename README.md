@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Zbaira</h1>
-<h3 align="center">Computer Science Graduate | Software Engineer & DevOps Enthusiast from Tunisia</h3>
+<h3 align="center">Software Engineer & DevOps Specialist</h3>
 
 - 🔭 I am a **Computer Science graduate** with experience in frontend and backend development, and a strong passion for **Software Engineering and DevOps**.
 
