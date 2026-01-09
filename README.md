@@ -3,7 +3,7 @@
 
 - 🔭 I am a **Computer Science graduate** with experience in frontend and backend development, and a strong passion for **Software Engineering and DevOps**.
 
-- 🌱 I am currently learning more about **DevOps, CI/CD pipelines, cloud technologies, and scalable backend architectures**.
+- 🌱 I am building expertise in DevOps, CI/CD pipelines, cloud technologies, and scalable backend architectures.
 
 - 👨‍💻 All of my projects are available on my **GitHub** repositories.
 
